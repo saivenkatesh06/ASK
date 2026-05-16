@@ -135,4 +135,4 @@ plt.show()
 <img width="1201" height="1012" alt="fsk" src="https://github.com/user-attachments/assets/dbd1e225-19c7-4ee9-a7a5-07570ec9fc1a" />
 
 # Results
-Thus, the ASK and FSK performed using colab
+THUS, THE ASK (Amplitude Shift Keying) AND FSK (Frequency Shift Keying) ARE PERFORMED USING PYTHON.
